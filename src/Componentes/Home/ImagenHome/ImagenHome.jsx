@@ -1,7 +1,7 @@
 //  IMPORTACIONES COMPONENETES BOOTSTRAP
 import Col from "react-bootstrap/Col";
 //  IMPORTACIONES COMPONENETES PROPIOS
-import imagenHome from "../../../../public/assets/image/productos/sillas/ch07ShellChair.webp";
+import imagenHome from "../../../assets/image/productos/sillas/ch07ShellChair.webp";
 //  IMPORTACION ESTILO
 import "./ImagenHome.css";
 
