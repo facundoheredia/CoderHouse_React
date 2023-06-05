@@ -1,0 +1,5 @@
+#listaContacto {
+    width: 100%;
+    list-style-type: none;
+    justify-content: space-around;
+}
