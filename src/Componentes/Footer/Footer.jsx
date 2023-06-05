@@ -6,7 +6,7 @@ import Derechos from "./Derechos/Derechos";
 import RedesSociales from "./RedesSociales/RedesSociales";
 import Contacto from "./Contacto/Contacto";
 //  IMPORTACIONES ESTILOS
-import "./footer.css"
+import "./Footer.css"
 
 const Footer = () => {
   return (
