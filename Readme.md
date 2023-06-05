@@ -1,4 +1,4 @@
-# MINIMAL ESTORE
+# MINIMAL STORE
 Proyecto de ecommerce básico desarrollado en el curso de React para CoderHouse. 
 Este permite:
 - Visualizar una lista de productos de equipamiento de interiores para viviendas de una marca ficticia traidos desde una base de datos.
